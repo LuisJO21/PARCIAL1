@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462315111 source:c:\users\luis jose\desktop\archivos progra_q2\generar par e impar\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

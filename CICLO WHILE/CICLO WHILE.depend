@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462229874 source:c:\users\luis jose\desktop\archivos progra_q2\ciclo while\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
